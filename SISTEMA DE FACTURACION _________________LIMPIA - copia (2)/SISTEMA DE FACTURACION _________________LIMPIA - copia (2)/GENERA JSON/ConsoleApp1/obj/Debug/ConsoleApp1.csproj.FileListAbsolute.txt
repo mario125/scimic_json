@@ -41,3 +41,17 @@ C:\Users\Mario\Downloads\SISTEMA DE FACTURACION _________________LIMPIA - copia 
 C:\Users\Mario\Downloads\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\GENERA JSON\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
 C:\Users\Mario\Downloads\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\GENERA JSON\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 C:\Users\Mario\Downloads\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\GENERA JSON\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\GIT_HUB\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\GENERA JSON\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\GIT_HUB\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\GENERA JSON\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\GIT_HUB\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\GENERA JSON\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\GIT_HUB\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\GENERA JSON\ConsoleApp1\bin\Debug\businessEntities.dll
+D:\GIT_HUB\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\GENERA JSON\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+D:\GIT_HUB\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\GENERA JSON\ConsoleApp1\bin\Debug\businessEntities.pdb
+D:\GIT_HUB\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\GENERA JSON\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
+D:\GIT_HUB\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\GENERA JSON\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\GIT_HUB\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\GENERA JSON\ConsoleApp1\obj\Debug\ConsoleApp1.reporte.resources
+D:\GIT_HUB\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\GENERA JSON\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.GenerateResource.cache
+D:\GIT_HUB\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\GENERA JSON\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\GIT_HUB\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\GENERA JSON\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+D:\GIT_HUB\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\GENERA JSON\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\GIT_HUB\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\GENERA JSON\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

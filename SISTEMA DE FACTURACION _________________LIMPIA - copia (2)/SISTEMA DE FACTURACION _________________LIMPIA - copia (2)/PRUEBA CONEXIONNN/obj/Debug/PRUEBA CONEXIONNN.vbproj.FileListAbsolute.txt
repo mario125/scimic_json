@@ -117,3 +117,34 @@ C:\Users\Mario\Downloads\SISTEMA DE FACTURACION _________________LIMPIA - copia 
 C:\Users\Mario\Downloads\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\obj\Debug\PRUEBA CONEXIONNN.exe
 C:\Users\Mario\Downloads\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\obj\Debug\PRUEBA CONEXIONNN.xml
 C:\Users\Mario\Downloads\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\obj\Debug\PRUEBA CONEXIONNN.pdb
+D:\GIT_HUB\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\bin\Debug\PRUEBA CONEXIONNN.exe.config
+D:\GIT_HUB\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\bin\Debug\PRUEBA CONEXIONNN.exe
+D:\GIT_HUB\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\bin\Debug\PRUEBA CONEXIONNN.pdb
+D:\GIT_HUB\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\bin\Debug\PRUEBA CONEXIONNN.xml
+D:\GIT_HUB\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\bin\Debug\businessEntities.dll
+D:\GIT_HUB\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\bin\Debug\ConsoleApp1.exe
+D:\GIT_HUB\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\bin\Debug\CPEEnvio.dll
+D:\GIT_HUB\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\bin\Debug\CrearXML.dll
+D:\GIT_HUB\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\bin\Debug\Signature.dll
+D:\GIT_HUB\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\bin\Debug\SharpZipLib.dll
+D:\GIT_HUB\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\bin\Debug\Newtonsoft.Json.dll
+D:\GIT_HUB\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\bin\Debug\businessEntities.pdb
+D:\GIT_HUB\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\bin\Debug\CPEEnvio.pdb
+D:\GIT_HUB\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\bin\Debug\CPEEnvio.xml
+D:\GIT_HUB\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\bin\Debug\CPEEnvio.dll.config
+D:\GIT_HUB\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\bin\Debug\CrearXML.pdb
+D:\GIT_HUB\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\bin\Debug\CrearXML.xml
+D:\GIT_HUB\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\bin\Debug\ConsoleApp1.pdb
+D:\GIT_HUB\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\bin\Debug\ConsoleApp1.exe.config
+D:\GIT_HUB\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\bin\Debug\Signature.pdb
+D:\GIT_HUB\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\bin\Debug\Newtonsoft.Json.xml
+D:\GIT_HUB\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\obj\Debug\PRUEBA CONEXIONNN.vbprojAssemblyReference.cache
+D:\GIT_HUB\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\obj\Debug\PRUEBA_CONEXIONNN.ANULAR.resources
+D:\GIT_HUB\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\obj\Debug\PRUEBA_CONEXIONNN.Form1.resources
+D:\GIT_HUB\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\obj\Debug\PRUEBA_CONEXIONNN.Resources.resources
+D:\GIT_HUB\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\obj\Debug\PRUEBA CONEXIONNN.vbproj.GenerateResource.cache
+D:\GIT_HUB\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\obj\Debug\PRUEBA CONEXIONNN.vbproj.CoreCompileInputs.cache
+D:\GIT_HUB\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\obj\Debug\PRUEBA CONEXIONNN.vbproj.CopyComplete
+D:\GIT_HUB\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\obj\Debug\PRUEBA CONEXIONNN.exe
+D:\GIT_HUB\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\obj\Debug\PRUEBA CONEXIONNN.xml
+D:\GIT_HUB\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\obj\Debug\PRUEBA CONEXIONNN.pdb
