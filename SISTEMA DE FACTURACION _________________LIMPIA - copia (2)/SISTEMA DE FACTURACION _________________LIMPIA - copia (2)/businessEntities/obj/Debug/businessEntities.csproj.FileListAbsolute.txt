@@ -104,3 +104,10 @@ C:\Users\Mario\Downloads\SISTEMA DE FACTURACION _________________LIMPIA - copia 
 C:\Users\Mario\Downloads\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\businessEntities\obj\Debug\businessEntities.csproj.CopyComplete
 C:\Users\Mario\Downloads\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\businessEntities\obj\Debug\businessEntities.dll
 C:\Users\Mario\Downloads\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\businessEntities\obj\Debug\businessEntities.pdb
+C:\Users\Mario\Documents\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\businessEntities\bin\Debug\businessEntities.dll
+C:\Users\Mario\Documents\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\businessEntities\bin\Debug\businessEntities.pdb
+C:\Users\Mario\Documents\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\businessEntities\obj\Debug\businessEntities.csprojAssemblyReference.cache
+C:\Users\Mario\Documents\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\businessEntities\obj\Debug\businessEntities.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Documents\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\businessEntities\obj\Debug\businessEntities.csproj.CopyComplete
+C:\Users\Mario\Documents\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\businessEntities\obj\Debug\businessEntities.dll
+C:\Users\Mario\Documents\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\businessEntities\obj\Debug\businessEntities.pdb

@@ -173,3 +173,15 @@ C:\Users\Mario\Downloads\SISTEMA DE FACTURACION _________________LIMPIA - copia 
 C:\Users\Mario\Downloads\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\CPEEnvio\obj\Debug\CPEEnvio.dll
 C:\Users\Mario\Downloads\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\CPEEnvio\obj\Debug\CPEEnvio.xml
 C:\Users\Mario\Downloads\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\CPEEnvio\obj\Debug\CPEEnvio.pdb
+C:\Users\Mario\Documents\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\CPEEnvio\bin\Debug\CPEEnvio.dll.config
+C:\Users\Mario\Documents\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\CPEEnvio\bin\Debug\CPEEnvio.dll
+C:\Users\Mario\Documents\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\CPEEnvio\bin\Debug\CPEEnvio.pdb
+C:\Users\Mario\Documents\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\CPEEnvio\bin\Debug\CPEEnvio.xml
+C:\Users\Mario\Documents\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\CPEEnvio\obj\Debug\CPEEnvio.vbprojAssemblyReference.cache
+C:\Users\Mario\Documents\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\CPEEnvio\obj\Debug\CPEEnvio.Resources.resources
+C:\Users\Mario\Documents\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\CPEEnvio\obj\Debug\CPEEnvio.vbproj.GenerateResource.cache
+C:\Users\Mario\Documents\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\CPEEnvio\obj\Debug\CPEEnvio.vbproj.CoreCompileInputs.cache
+C:\Users\Mario\Documents\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\CPEEnvio\obj\Debug\CPEEnvio.vbproj.CopyComplete
+C:\Users\Mario\Documents\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\CPEEnvio\obj\Debug\CPEEnvio.dll
+C:\Users\Mario\Documents\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\CPEEnvio\obj\Debug\CPEEnvio.xml
+C:\Users\Mario\Documents\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\CPEEnvio\obj\Debug\CPEEnvio.pdb

@@ -139,3 +139,12 @@ C:\Users\Mario\Downloads\SISTEMA DE FACTURACION _________________LIMPIA - copia 
 C:\Users\Mario\Downloads\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\Signature\obj\Debug\Signature.csproj.CopyComplete
 C:\Users\Mario\Downloads\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\Signature\obj\Debug\Signature.dll
 C:\Users\Mario\Downloads\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\Signature\obj\Debug\Signature.pdb
+C:\Users\Mario\Documents\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\Signature\bin\Debug\Signature.dll
+C:\Users\Mario\Documents\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\Signature\bin\Debug\Signature.pdb
+C:\Users\Mario\Documents\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\Signature\bin\Debug\businessEntities.dll
+C:\Users\Mario\Documents\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\Signature\bin\Debug\businessEntities.pdb
+C:\Users\Mario\Documents\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\Signature\obj\Debug\Signature.csprojAssemblyReference.cache
+C:\Users\Mario\Documents\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\Signature\obj\Debug\Signature.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Documents\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\Signature\obj\Debug\Signature.csproj.CopyComplete
+C:\Users\Mario\Documents\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\Signature\obj\Debug\Signature.dll
+C:\Users\Mario\Documents\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\Signature\obj\Debug\Signature.pdb
