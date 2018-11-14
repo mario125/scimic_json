@@ -1,0 +1,52 @@
+C:\Users\desarrollo\source\repos\PRUEBA CONEXIONNN\PRUEBA CONEXIONNN\bin\Release\PRUEBA CONEXIONNN.exe.config
+C:\Users\desarrollo\source\repos\PRUEBA CONEXIONNN\PRUEBA CONEXIONNN\bin\Release\PRUEBA CONEXIONNN.exe
+C:\Users\desarrollo\source\repos\PRUEBA CONEXIONNN\PRUEBA CONEXIONNN\bin\Release\PRUEBA CONEXIONNN.pdb
+C:\Users\desarrollo\source\repos\PRUEBA CONEXIONNN\PRUEBA CONEXIONNN\bin\Release\PRUEBA CONEXIONNN.xml
+C:\Users\desarrollo\source\repos\PRUEBA CONEXIONNN\PRUEBA CONEXIONNN\bin\Release\businessEntities.dll
+C:\Users\desarrollo\source\repos\PRUEBA CONEXIONNN\PRUEBA CONEXIONNN\bin\Release\CPEEnvio.dll
+C:\Users\desarrollo\source\repos\PRUEBA CONEXIONNN\PRUEBA CONEXIONNN\bin\Release\CrearXML.dll
+C:\Users\desarrollo\source\repos\PRUEBA CONEXIONNN\PRUEBA CONEXIONNN\bin\Release\scimicvb.dll
+C:\Users\desarrollo\source\repos\PRUEBA CONEXIONNN\PRUEBA CONEXIONNN\bin\Release\Signature.dll
+C:\Users\desarrollo\source\repos\PRUEBA CONEXIONNN\PRUEBA CONEXIONNN\bin\Release\SharpZipLib.dll
+C:\Users\desarrollo\source\repos\PRUEBA CONEXIONNN\PRUEBA CONEXIONNN\bin\Release\businessEntities.pdb
+C:\Users\desarrollo\source\repos\PRUEBA CONEXIONNN\PRUEBA CONEXIONNN\bin\Release\CPEEnvio.pdb
+C:\Users\desarrollo\source\repos\PRUEBA CONEXIONNN\PRUEBA CONEXIONNN\bin\Release\CPEEnvio.xml
+C:\Users\desarrollo\source\repos\PRUEBA CONEXIONNN\PRUEBA CONEXIONNN\bin\Release\CPEEnvio.dll.config
+C:\Users\desarrollo\source\repos\PRUEBA CONEXIONNN\PRUEBA CONEXIONNN\bin\Release\CrearXML.pdb
+C:\Users\desarrollo\source\repos\PRUEBA CONEXIONNN\PRUEBA CONEXIONNN\bin\Release\CrearXML.xml
+C:\Users\desarrollo\source\repos\PRUEBA CONEXIONNN\PRUEBA CONEXIONNN\bin\Release\Signature.pdb
+C:\Users\desarrollo\source\repos\PRUEBA CONEXIONNN\PRUEBA CONEXIONNN\obj\Release\PRUEBA CONEXIONNN.vbprojAssemblyReference.cache
+C:\Users\desarrollo\source\repos\PRUEBA CONEXIONNN\PRUEBA CONEXIONNN\obj\Release\PRUEBA_CONEXIONNN.Form1.resources
+C:\Users\desarrollo\source\repos\PRUEBA CONEXIONNN\PRUEBA CONEXIONNN\obj\Release\PRUEBA_CONEXIONNN.Resources.resources
+C:\Users\desarrollo\source\repos\PRUEBA CONEXIONNN\PRUEBA CONEXIONNN\obj\Release\PRUEBA CONEXIONNN.vbproj.GenerateResource.cache
+C:\Users\desarrollo\source\repos\PRUEBA CONEXIONNN\PRUEBA CONEXIONNN\obj\Release\PRUEBA CONEXIONNN.vbproj.CoreCompileInputs.cache
+C:\Users\desarrollo\source\repos\PRUEBA CONEXIONNN\PRUEBA CONEXIONNN\obj\Release\PRUEBA CONEXIONNN.vbproj.CopyComplete
+C:\Users\desarrollo\source\repos\PRUEBA CONEXIONNN\PRUEBA CONEXIONNN\obj\Release\PRUEBA CONEXIONNN.exe
+C:\Users\desarrollo\source\repos\PRUEBA CONEXIONNN\PRUEBA CONEXIONNN\obj\Release\PRUEBA CONEXIONNN.xml
+C:\Users\desarrollo\source\repos\PRUEBA CONEXIONNN\PRUEBA CONEXIONNN\obj\Release\PRUEBA CONEXIONNN.pdb
+D:\SISTEMA DE FACTURACION _________________LIMPIA\PRUEBA CONEXIONNN\bin\Release\PRUEBA CONEXIONNN.exe.config
+D:\SISTEMA DE FACTURACION _________________LIMPIA\PRUEBA CONEXIONNN\bin\Release\PRUEBA CONEXIONNN.exe
+D:\SISTEMA DE FACTURACION _________________LIMPIA\PRUEBA CONEXIONNN\bin\Release\PRUEBA CONEXIONNN.pdb
+D:\SISTEMA DE FACTURACION _________________LIMPIA\PRUEBA CONEXIONNN\bin\Release\PRUEBA CONEXIONNN.xml
+D:\SISTEMA DE FACTURACION _________________LIMPIA\PRUEBA CONEXIONNN\bin\Release\businessEntities.dll
+D:\SISTEMA DE FACTURACION _________________LIMPIA\PRUEBA CONEXIONNN\bin\Release\CPEEnvio.dll
+D:\SISTEMA DE FACTURACION _________________LIMPIA\PRUEBA CONEXIONNN\bin\Release\CrearXML.dll
+D:\SISTEMA DE FACTURACION _________________LIMPIA\PRUEBA CONEXIONNN\bin\Release\Signature.dll
+D:\SISTEMA DE FACTURACION _________________LIMPIA\PRUEBA CONEXIONNN\bin\Release\SharpZipLib.dll
+D:\SISTEMA DE FACTURACION _________________LIMPIA\PRUEBA CONEXIONNN\bin\Release\businessEntities.pdb
+D:\SISTEMA DE FACTURACION _________________LIMPIA\PRUEBA CONEXIONNN\bin\Release\CPEEnvio.pdb
+D:\SISTEMA DE FACTURACION _________________LIMPIA\PRUEBA CONEXIONNN\bin\Release\CPEEnvio.xml
+D:\SISTEMA DE FACTURACION _________________LIMPIA\PRUEBA CONEXIONNN\bin\Release\CPEEnvio.dll.config
+D:\SISTEMA DE FACTURACION _________________LIMPIA\PRUEBA CONEXIONNN\bin\Release\CrearXML.pdb
+D:\SISTEMA DE FACTURACION _________________LIMPIA\PRUEBA CONEXIONNN\bin\Release\CrearXML.xml
+D:\SISTEMA DE FACTURACION _________________LIMPIA\PRUEBA CONEXIONNN\bin\Release\Signature.pdb
+D:\SISTEMA DE FACTURACION _________________LIMPIA\PRUEBA CONEXIONNN\obj\Release\PRUEBA CONEXIONNN.vbprojAssemblyReference.cache
+D:\SISTEMA DE FACTURACION _________________LIMPIA\PRUEBA CONEXIONNN\obj\Release\PRUEBA_CONEXIONNN.Form1.resources
+D:\SISTEMA DE FACTURACION _________________LIMPIA\PRUEBA CONEXIONNN\obj\Release\PRUEBA_CONEXIONNN.Resources.resources
+D:\SISTEMA DE FACTURACION _________________LIMPIA\PRUEBA CONEXIONNN\obj\Release\PRUEBA CONEXIONNN.vbproj.GenerateResource.cache
+D:\SISTEMA DE FACTURACION _________________LIMPIA\PRUEBA CONEXIONNN\obj\Release\PRUEBA CONEXIONNN.vbproj.CoreCompileInputs.cache
+D:\SISTEMA DE FACTURACION _________________LIMPIA\PRUEBA CONEXIONNN\obj\Release\PRUEBA CONEXIONNN.vbproj.CopyComplete
+D:\SISTEMA DE FACTURACION _________________LIMPIA\PRUEBA CONEXIONNN\obj\Release\PRUEBA CONEXIONNN.exe
+D:\SISTEMA DE FACTURACION _________________LIMPIA\PRUEBA CONEXIONNN\obj\Release\PRUEBA CONEXIONNN.xml
+D:\SISTEMA DE FACTURACION _________________LIMPIA\PRUEBA CONEXIONNN\obj\Release\PRUEBA CONEXIONNN.pdb
+D:\SISTEMA DE FACTURACION _________________LIMPIA\PRUEBA CONEXIONNN\obj\Release\PRUEBA_CONEXIONNN.ANULAR.resources

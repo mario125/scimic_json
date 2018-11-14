@@ -1,0 +1,27 @@
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\CPEEnvio\bin\Release\CPEEnvio.dll.config
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\CPEEnvio\bin\Release\CPEEnvio.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\CPEEnvio\bin\Release\CPEEnvio.pdb
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\CPEEnvio\bin\Release\CPEEnvio.xml
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\CPEEnvio\bin\Release\Newtonsoft.Json.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\CPEEnvio\bin\Release\SharpZipLib.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\CPEEnvio\obj\Release\CPEEnvio.vbprojAssemblyReference.cache
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\CPEEnvio\obj\Release\CPEEnvio.Resources.resources
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\CPEEnvio\obj\Release\CPEEnvio.vbproj.GenerateResource.cache
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\CPEEnvio\obj\Release\CPEEnvio.vbproj.CoreCompileInputs.cache
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\CPEEnvio\obj\Release\CPEEnvio.vbproj.CopyComplete
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\CPEEnvio\obj\Release\CPEEnvio.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\CPEEnvio\obj\Release\CPEEnvio.xml
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\CPEEnvio\obj\Release\CPEEnvio.pdb
+C:\Users\desarrollo\source\repos\SISTEMA FACTURACION SCIMIC\CPEEnvio\bin\Release\CPEEnvio.dll.config
+C:\Users\desarrollo\source\repos\SISTEMA FACTURACION SCIMIC\CPEEnvio\bin\Release\CPEEnvio.dll
+C:\Users\desarrollo\source\repos\SISTEMA FACTURACION SCIMIC\CPEEnvio\bin\Release\CPEEnvio.pdb
+C:\Users\desarrollo\source\repos\SISTEMA FACTURACION SCIMIC\CPEEnvio\bin\Release\CPEEnvio.xml
+C:\Users\desarrollo\source\repos\SISTEMA FACTURACION SCIMIC\CPEEnvio\bin\Release\Newtonsoft.Json.dll
+C:\Users\desarrollo\source\repos\SISTEMA FACTURACION SCIMIC\CPEEnvio\bin\Release\SharpZipLib.dll
+C:\Users\desarrollo\source\repos\SISTEMA FACTURACION SCIMIC\CPEEnvio\obj\Release\CPEEnvio.Resources.resources
+C:\Users\desarrollo\source\repos\SISTEMA FACTURACION SCIMIC\CPEEnvio\obj\Release\CPEEnvio.vbproj.GenerateResource.cache
+C:\Users\desarrollo\source\repos\SISTEMA FACTURACION SCIMIC\CPEEnvio\obj\Release\CPEEnvio.vbproj.CoreCompileInputs.cache
+C:\Users\desarrollo\source\repos\SISTEMA FACTURACION SCIMIC\CPEEnvio\obj\Release\CPEEnvio.vbproj.CopyComplete
+C:\Users\desarrollo\source\repos\SISTEMA FACTURACION SCIMIC\CPEEnvio\obj\Release\CPEEnvio.dll
+C:\Users\desarrollo\source\repos\SISTEMA FACTURACION SCIMIC\CPEEnvio\obj\Release\CPEEnvio.xml
+C:\Users\desarrollo\source\repos\SISTEMA FACTURACION SCIMIC\CPEEnvio\obj\Release\CPEEnvio.pdb

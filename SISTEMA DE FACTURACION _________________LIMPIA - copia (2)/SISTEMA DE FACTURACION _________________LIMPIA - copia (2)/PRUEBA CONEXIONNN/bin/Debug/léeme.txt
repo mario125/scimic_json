@@ -1,0 +1,1 @@
+Colocar el dll en la carpeta "C:\Windows\quricol32.dll" en la instalacion para que funcione el generador de QR

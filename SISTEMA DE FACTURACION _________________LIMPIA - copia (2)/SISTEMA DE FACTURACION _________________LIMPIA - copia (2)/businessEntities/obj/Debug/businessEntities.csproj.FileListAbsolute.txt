@@ -1,0 +1,106 @@
+C:\Users\developer2\Desktop\FacElectronicaVBNet\businessEntities\bin\Debug\businessEntities.dll
+C:\Users\developer2\Desktop\FacElectronicaVBNet\businessEntities\bin\Debug\businessEntities.pdb
+C:\Users\developer2\Desktop\FacElectronicaVBNet\businessEntities\obj\Debug\businessEntities.csproj.CoreCompileInputs.cache
+C:\Users\developer2\Desktop\FacElectronicaVBNet\businessEntities\obj\Debug\businessEntities.dll
+C:\Users\developer2\Desktop\FacElectronicaVBNet\businessEntities\obj\Debug\businessEntities.pdb
+C:\Users\developer2\Desktop\FacElectronicaVBNet\businessEntities\obj\Debug\businessEntities.csprojResolveAssemblyReference.cache
+C:\Users\crevperu\Desktop\FacElectronicaVBNet\businessEntities\bin\Debug\businessEntities.dll
+C:\Users\crevperu\Desktop\FacElectronicaVBNet\businessEntities\bin\Debug\businessEntities.pdb
+C:\Users\crevperu\Desktop\FacElectronicaVBNet\businessEntities\obj\Debug\businessEntities.csprojResolveAssemblyReference.cache
+C:\Users\crevperu\Desktop\FacElectronicaVBNet\businessEntities\obj\Debug\businessEntities.csproj.CoreCompileInputs.cache
+C:\Users\crevperu\Desktop\FacElectronicaVBNet\businessEntities\obj\Debug\businessEntities.csproj.CopyComplete
+C:\Users\crevperu\Desktop\FacElectronicaVBNet\businessEntities\obj\Debug\businessEntities.dll
+C:\Users\crevperu\Desktop\FacElectronicaVBNet\businessEntities\obj\Debug\businessEntities.pdb
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\businessEntities\bin\Debug\businessEntities.dll
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\businessEntities\bin\Debug\businessEntities.pdb
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\businessEntities\obj\Debug\BusinessEntities.csprojResolveAssemblyReference.cache
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\businessEntities\obj\Debug\businessEntities.dll
+D:\Jose Zambrano\jose\sistemas\FacElectronicaVBNet\businessEntities\obj\Debug\businessEntities.pdb
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\businessEntities\bin\Debug\businessEntities.dll
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\businessEntities\bin\Debug\businessEntities.pdb
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\businessEntities\obj\Debug\businessEntities.csproj.CoreCompileInputs.cache
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\businessEntities\obj\Debug\businessEntities.csproj.CopyComplete
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\businessEntities\obj\Debug\businessEntities.dll
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\businessEntities\obj\Debug\businessEntities.pdb
+C:\Users\LCHAUCA\Desktop\FacElectronicaVBNet\FacElectronicaVBNet\businessEntities\obj\Debug\businessEntities.csprojAssemblyReference.cache
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\businessEntities\bin\Debug\businessEntities.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\businessEntities\bin\Debug\businessEntities.pdb
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\businessEntities\obj\Debug\BusinessEntities.csprojAssemblyReference.cache
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\businessEntities\obj\Debug\BusinessEntities.csproj.CoreCompileInputs.cache
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\BusinessEntities\obj\Debug\BusinessEntities.csproj.CopyComplete
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\businessEntities\obj\Debug\businessEntities.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\FacElectronicaVBNet\businessEntities\obj\Debug\businessEntities.pdb
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\businessEntities\bin\Debug\businessEntities.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\businessEntities\bin\Debug\businessEntities.pdb
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\businessEntities\obj\Debug\businessEntities.csproj.CoreCompileInputs.cache
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\businessEntities\obj\Debug\businessEntities.csproj.CopyComplete
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\businessEntities\obj\Debug\businessEntities.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\FacElectronicaVBNet\businessEntities\obj\Debug\businessEntities.pdb
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\businessEntities\bin\Debug\businessEntities.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\businessEntities\bin\Debug\businessEntities.pdb
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\businessEntities\obj\Debug\businessEntities.csproj.CoreCompileInputs.cache
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\businessEntities\obj\Debug\businessEntities.csproj.CopyComplete
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\businessEntities\obj\Debug\businessEntities.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\businessEntities\obj\Debug\businessEntities.pdb
+D:\SISTEMA DE FACTURACION SCIMIC FACE PRODUCCION-mario\SCIMIC\businessEntities\bin\Debug\businessEntities.dll
+D:\SISTEMA DE FACTURACION SCIMIC FACE PRODUCCION-mario\SCIMIC\businessEntities\bin\Debug\businessEntities.pdb
+D:\SISTEMA DE FACTURACION SCIMIC FACE PRODUCCION-mario\SCIMIC\businessEntities\obj\Debug\businessEntities.csprojAssemblyReference.cache
+D:\SISTEMA DE FACTURACION SCIMIC FACE PRODUCCION-mario\SCIMIC\businessEntities\obj\Debug\businessEntities.csproj.CoreCompileInputs.cache
+D:\SISTEMA DE FACTURACION SCIMIC FACE PRODUCCION-mario\SCIMIC\businessEntities\obj\Debug\businessEntities.csproj.CopyComplete
+D:\SISTEMA DE FACTURACION SCIMIC FACE PRODUCCION-mario\SCIMIC\businessEntities\obj\Debug\businessEntities.dll
+D:\SISTEMA DE FACTURACION SCIMIC FACE PRODUCCION-mario\SCIMIC\businessEntities\obj\Debug\businessEntities.pdb
+D:\CAMAL\BETA\businessEntities\bin\Debug\businessEntities.dll
+D:\CAMAL\BETA\businessEntities\bin\Debug\businessEntities.pdb
+D:\CAMAL\BETA\businessEntities\obj\Debug\businessEntities.csprojAssemblyReference.cache
+D:\CAMAL\BETA\businessEntities\obj\Debug\businessEntities.csproj.CoreCompileInputs.cache
+D:\CAMAL\BETA\businessEntities\obj\Debug\businessEntities.csproj.CopyComplete
+D:\CAMAL\BETA\businessEntities\obj\Debug\businessEntities.dll
+D:\CAMAL\BETA\businessEntities\obj\Debug\businessEntities.pdb
+D:\SISTEMA DE FACTURACION SCIMIC FACE PRODUCCION-mario\SCIMIC FINAL 1\businessEntities\bin\Debug\businessEntities.dll
+D:\SISTEMA DE FACTURACION SCIMIC FACE PRODUCCION-mario\SCIMIC FINAL 1\businessEntities\bin\Debug\businessEntities.pdb
+D:\SISTEMA DE FACTURACION SCIMIC FACE PRODUCCION-mario\SCIMIC FINAL 1\businessEntities\obj\Debug\businessEntities.csproj.CoreCompileInputs.cache
+D:\SISTEMA DE FACTURACION SCIMIC FACE PRODUCCION-mario\SCIMIC FINAL 1\businessEntities\obj\Debug\businessEntities.csproj.CopyComplete
+D:\SISTEMA DE FACTURACION SCIMIC FACE PRODUCCION-mario\SCIMIC FINAL 1\businessEntities\obj\Debug\businessEntities.dll
+D:\SISTEMA DE FACTURACION SCIMIC FACE PRODUCCION-mario\SCIMIC FINAL 1\businessEntities\obj\Debug\businessEntities.pdb
+D:\SISTEMA DE FACTURACION ----------------CAMAL------------------ FACE PRODUCCION-mario - copia\SCIMIC FINAL 1\businessEntities\bin\Debug\businessEntities.dll
+D:\SISTEMA DE FACTURACION ----------------CAMAL------------------ FACE PRODUCCION-mario - copia\SCIMIC FINAL 1\businessEntities\bin\Debug\businessEntities.pdb
+D:\SISTEMA DE FACTURACION ----------------CAMAL------------------ FACE PRODUCCION-mario - copia\SCIMIC FINAL 1\businessEntities\obj\Debug\businessEntities.csprojAssemblyReference.cache
+D:\SISTEMA DE FACTURACION ----------------CAMAL------------------ FACE PRODUCCION-mario - copia\SCIMIC FINAL 1\businessEntities\obj\Debug\businessEntities.csproj.CoreCompileInputs.cache
+D:\SISTEMA DE FACTURACION ----------------CAMAL------------------ FACE PRODUCCION-mario - copia\SCIMIC FINAL 1\businessEntities\obj\Debug\businessEntities.csproj.CopyComplete
+D:\SISTEMA DE FACTURACION ----------------CAMAL------------------ FACE PRODUCCION-mario - copia\SCIMIC FINAL 1\businessEntities\obj\Debug\businessEntities.dll
+D:\SISTEMA DE FACTURACION ----------------CAMAL------------------ FACE PRODUCCION-mario - copia\SCIMIC FINAL 1\businessEntities\obj\Debug\businessEntities.pdb
+D:\SISTEMA DE FACTURACION ---------------UNICENTA------------------- FACE PRODUCCION\SCIMIC FINAL 1\businessEntities\bin\Debug\businessEntities.dll
+D:\SISTEMA DE FACTURACION ---------------UNICENTA------------------- FACE PRODUCCION\SCIMIC FINAL 1\businessEntities\bin\Debug\businessEntities.pdb
+D:\SISTEMA DE FACTURACION ---------------UNICENTA------------------- FACE PRODUCCION\SCIMIC FINAL 1\businessEntities\obj\Debug\businessEntities.csprojAssemblyReference.cache
+D:\SISTEMA DE FACTURACION ---------------UNICENTA------------------- FACE PRODUCCION\SCIMIC FINAL 1\businessEntities\obj\Debug\businessEntities.csproj.CoreCompileInputs.cache
+D:\SISTEMA DE FACTURACION ---------------UNICENTA------------------- FACE PRODUCCION\SCIMIC FINAL 1\businessEntities\obj\Debug\businessEntities.csproj.CopyComplete
+D:\SISTEMA DE FACTURACION ---------------UNICENTA------------------- FACE PRODUCCION\SCIMIC FINAL 1\businessEntities\obj\Debug\businessEntities.dll
+D:\SISTEMA DE FACTURACION ---------------UNICENTA------------------- FACE PRODUCCION\SCIMIC FINAL 1\businessEntities\obj\Debug\businessEntities.pdb
+D:\SISTEMA DE FACTURACION ---------------UNICENTA------------------- FACE PRODUCCION - copia\SCIMIC FINAL 1\businessEntities\bin\Debug\businessEntities.dll
+D:\SISTEMA DE FACTURACION ---------------UNICENTA------------------- FACE PRODUCCION - copia\SCIMIC FINAL 1\businessEntities\bin\Debug\businessEntities.pdb
+D:\SISTEMA DE FACTURACION ---------------UNICENTA------------------- FACE PRODUCCION - copia\SCIMIC FINAL 1\businessEntities\obj\Debug\businessEntities.csprojAssemblyReference.cache
+D:\SISTEMA DE FACTURACION ---------------UNICENTA------------------- FACE PRODUCCION - copia\SCIMIC FINAL 1\businessEntities\obj\Debug\businessEntities.csproj.CoreCompileInputs.cache
+D:\SISTEMA DE FACTURACION ---------------UNICENTA------------------- FACE PRODUCCION - copia\SCIMIC FINAL 1\businessEntities\obj\Debug\businessEntities.csproj.CopyComplete
+D:\SISTEMA DE FACTURACION ---------------UNICENTA------------------- FACE PRODUCCION - copia\SCIMIC FINAL 1\businessEntities\obj\Debug\businessEntities.dll
+D:\SISTEMA DE FACTURACION ---------------UNICENTA------------------- FACE PRODUCCION - copia\SCIMIC FINAL 1\businessEntities\obj\Debug\businessEntities.pdb
+D:\SISTEMA DE FACTURACION _________________LIMPIA\businessEntities\bin\Debug\businessEntities.dll
+D:\SISTEMA DE FACTURACION _________________LIMPIA\businessEntities\bin\Debug\businessEntities.pdb
+D:\SISTEMA DE FACTURACION _________________LIMPIA\businessEntities\obj\Debug\businessEntities.csproj.CoreCompileInputs.cache
+D:\SISTEMA DE FACTURACION _________________LIMPIA\businessEntities\obj\Debug\businessEntities.csproj.CopyComplete
+D:\SISTEMA DE FACTURACION _________________LIMPIA\businessEntities\obj\Debug\businessEntities.dll
+D:\SISTEMA DE FACTURACION _________________LIMPIA\businessEntities\obj\Debug\businessEntities.pdb
+D:\SISTEMA DE FACTURACION _________________LIMPIA\businessEntities\obj\Debug\businessEntities.csprojAssemblyReference.cache
+D:\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\businessEntities\bin\Debug\businessEntities.dll
+D:\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\businessEntities\bin\Debug\businessEntities.pdb
+D:\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\businessEntities\obj\Debug\businessEntities.csprojAssemblyReference.cache
+D:\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\businessEntities\obj\Debug\businessEntities.csproj.CoreCompileInputs.cache
+D:\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\businessEntities\obj\Debug\businessEntities.csproj.CopyComplete
+D:\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\businessEntities\obj\Debug\businessEntities.dll
+D:\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\businessEntities\obj\Debug\businessEntities.pdb
+C:\Users\Mario\Downloads\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\businessEntities\bin\Debug\businessEntities.dll
+C:\Users\Mario\Downloads\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\businessEntities\bin\Debug\businessEntities.pdb
+C:\Users\Mario\Downloads\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\businessEntities\obj\Debug\businessEntities.csprojAssemblyReference.cache
+C:\Users\Mario\Downloads\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\businessEntities\obj\Debug\businessEntities.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Downloads\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\businessEntities\obj\Debug\businessEntities.csproj.CopyComplete
+C:\Users\Mario\Downloads\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\businessEntities\obj\Debug\businessEntities.dll
+C:\Users\Mario\Downloads\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\businessEntities\obj\Debug\businessEntities.pdb

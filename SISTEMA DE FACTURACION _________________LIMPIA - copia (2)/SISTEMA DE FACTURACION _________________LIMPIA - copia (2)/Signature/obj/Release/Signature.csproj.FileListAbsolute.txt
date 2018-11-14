@@ -1,0 +1,27 @@
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\Signature\bin\Release\Signature.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\Signature\bin\Release\Signature.pdb
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\Signature\bin\Release\businessEntities.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\Signature\bin\Release\businessEntities.pdb
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\Signature\obj\Release\Signature.csprojAssemblyReference.cache
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\Signature\obj\Release\Signature.csproj.CoreCompileInputs.cache
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\Signature\obj\Release\Signature.csproj.CopyComplete
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\Signature\obj\Release\Signature.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\Signature\obj\Release\Signature.pdb
+C:\Users\desarrollo\source\repos\SISTEMA FACTURACION SCIMIC\Signature\bin\Release\Signature.dll
+C:\Users\desarrollo\source\repos\SISTEMA FACTURACION SCIMIC\Signature\bin\Release\Signature.pdb
+C:\Users\desarrollo\source\repos\SISTEMA FACTURACION SCIMIC\Signature\bin\Release\businessEntities.dll
+C:\Users\desarrollo\source\repos\SISTEMA FACTURACION SCIMIC\Signature\bin\Release\businessEntities.pdb
+C:\Users\desarrollo\source\repos\SISTEMA FACTURACION SCIMIC\Signature\obj\Release\Signature.csprojAssemblyReference.cache
+C:\Users\desarrollo\source\repos\SISTEMA FACTURACION SCIMIC\Signature\obj\Release\Signature.csproj.CoreCompileInputs.cache
+C:\Users\desarrollo\source\repos\SISTEMA FACTURACION SCIMIC\Signature\obj\Release\Signature.csproj.CopyComplete
+C:\Users\desarrollo\source\repos\SISTEMA FACTURACION SCIMIC\Signature\obj\Release\Signature.dll
+C:\Users\desarrollo\source\repos\SISTEMA FACTURACION SCIMIC\Signature\obj\Release\Signature.pdb
+D:\SISTEMA DE FACTURACION _________________LIMPIA\Signature\bin\Release\Signature.dll
+D:\SISTEMA DE FACTURACION _________________LIMPIA\Signature\bin\Release\Signature.pdb
+D:\SISTEMA DE FACTURACION _________________LIMPIA\Signature\bin\Release\businessEntities.dll
+D:\SISTEMA DE FACTURACION _________________LIMPIA\Signature\bin\Release\businessEntities.pdb
+D:\SISTEMA DE FACTURACION _________________LIMPIA\Signature\obj\Release\Signature.csprojAssemblyReference.cache
+D:\SISTEMA DE FACTURACION _________________LIMPIA\Signature\obj\Release\Signature.csproj.CoreCompileInputs.cache
+D:\SISTEMA DE FACTURACION _________________LIMPIA\Signature\obj\Release\Signature.csproj.CopyComplete
+D:\SISTEMA DE FACTURACION _________________LIMPIA\Signature\obj\Release\Signature.dll
+D:\SISTEMA DE FACTURACION _________________LIMPIA\Signature\obj\Release\Signature.pdb

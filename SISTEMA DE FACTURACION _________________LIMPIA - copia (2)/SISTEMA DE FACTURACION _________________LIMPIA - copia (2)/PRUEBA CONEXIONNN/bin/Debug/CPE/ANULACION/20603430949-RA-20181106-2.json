@@ -1,0 +1,174 @@
+{
+  "_D": "urn:sunat:names:specification:ubl:peru:schema:xsd:VoidedDocuments-1",
+  "_S": "urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2",
+  "_B": "urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2",
+  "_E": "urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2",
+  "_SUNAT": "urn:sunat:names:specification:ubl:peru:schema:xsd:SunatAggregateComponents-1",
+  "VoidedDocuments": [
+    {
+      "UBLVersionID": [
+        {
+          "IdentifierContent": "2.0"
+        }
+      ],
+      "CustomizationID": [
+        {
+          "IdentifierContent": "1.0"
+        }
+      ],
+      "ID": [
+        {
+          "IdentifierContent": "RA-20181106-2"
+        }
+      ],
+      "ReferenceDate": [
+        {
+          "DateContent": "2018-10-30"
+        }
+      ],
+      "IssueDate": [
+        {
+          "DateContent": "2018-11-06"
+        }
+      ],
+      "Signature": [
+        {
+          "ID": [
+            {
+              "IdentifierContent": "IDSignature"
+            }
+          ],
+          "SignatoryParty": [
+            {
+              "PartyIdentification": [
+                {
+                  "ID": [
+                    {
+                      "IdentifierContent": "20603430949"
+                    }
+                  ]
+                }
+              ],
+              "PartyName": [
+                {
+                  "Name": [
+                    {
+                      "TextContent": "CORPORACION RUMBA Y SAZON E.I.R.L."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "DigitalSignatureAttachment": [
+            {
+              "ExternalReference": [
+                {
+                  "URI": [
+                    {
+                      "TextContent": "IDSignature"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "AccountingSupplierParty": [
+        {
+          "CustomerAssignedAccountID": [
+            {
+              "IdentifierContent": "20603430949"
+            }
+          ],
+          "AdditionalAccountID": [
+            {
+              "IdentifierContent": "6"
+            }
+          ],
+          "Party": [
+            {
+              "PostalAddress": [
+                {
+                  "ID": [
+                    {
+                      "IdentifierContent": "140106"
+                    }
+                  ],
+                  "StreetName": [
+                    {
+                      "TextContent": "AV. EL RETABLO NRO. 1431 URB. PRIMAVERA LIMA - LIMA - COMAS"
+                    }
+                  ],
+                  "CityName": [
+                    {
+                      "TextContent": "LIMA"
+                    }
+                  ],
+                  "CountrySubentity": [
+                    {
+                      "TextContent": "LIMA"
+                    }
+                  ],
+                  "District": [
+                    {
+                      "TextContent": "COMAS"
+                    }
+                  ],
+                  "Country": [
+                    {
+                      "IdentificationCode": [
+                        {
+                          "CodeContent": "PE"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "PartyLegalEntity": [
+                {
+                  "RegistrationName": [
+                    {
+                      "TextContent": "CORPORACION RUMBA Y SAZON E.I.R.L."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "VoidedDocumentsLine": [
+        {
+          "LineID": [
+            {
+              "IdentifierContent": 1
+            }
+          ],
+          "DocumentTypeCode": [
+            {
+              "CodeContent": "01"
+            }
+          ],
+          "DocumentSerialID": [
+            {
+              "TextContent": "F001"
+            }
+          ],
+          "DocumentNumberID": [
+            {
+              "TextContent": "3"
+            }
+          ],
+          "VoidReasonDescription": [
+            {
+              "TextContent": "error de facturacion"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

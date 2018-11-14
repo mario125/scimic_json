@@ -1,0 +1,43 @@
+C:\Users\Villa2\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Villa2\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Villa2\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Villa2\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Villa2\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Villa2\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Villa2\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\mario\Downloads\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\mario\Downloads\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\mario\Downloads\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\mario\Downloads\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\mario\Downloads\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\mario\Downloads\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\mario\Downloads\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\mario\Downloads\ConsoleApp1\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mario\Downloads\ConsoleApp1\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mario\Downloads\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+D:\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\GENERA JSON\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\GENERA JSON\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\GENERA JSON\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\GENERA JSON\ConsoleApp1\bin\Debug\businessEntities.dll
+D:\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\GENERA JSON\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+D:\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\GENERA JSON\ConsoleApp1\bin\Debug\businessEntities.pdb
+D:\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\GENERA JSON\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
+D:\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\GENERA JSON\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\GENERA JSON\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\GENERA JSON\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+D:\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\GENERA JSON\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\GENERA JSON\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Mario\Downloads\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\GENERA JSON\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Mario\Downloads\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\GENERA JSON\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Mario\Downloads\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\GENERA JSON\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Mario\Downloads\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\GENERA JSON\ConsoleApp1\bin\Debug\businessEntities.dll
+C:\Users\Mario\Downloads\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\GENERA JSON\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mario\Downloads\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\GENERA JSON\ConsoleApp1\bin\Debug\businessEntities.pdb
+C:\Users\Mario\Downloads\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\GENERA JSON\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mario\Downloads\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\GENERA JSON\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Mario\Downloads\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\GENERA JSON\ConsoleApp1\obj\Debug\ConsoleApp1.reporte.resources
+C:\Users\Mario\Downloads\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\GENERA JSON\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.GenerateResource.cache
+C:\Users\Mario\Downloads\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\GENERA JSON\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Downloads\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\GENERA JSON\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\Mario\Downloads\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\GENERA JSON\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Mario\Downloads\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\GENERA JSON\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

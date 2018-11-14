@@ -1,0 +1,52 @@
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\CrearXML\bin\Release\CrearXML.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\CrearXML\bin\Release\CrearXML.pdb
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\CrearXML\bin\Release\CrearXML.xml
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\CrearXML\bin\Release\businessEntities.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\CrearXML\bin\Release\businessEntities.pdb
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\CrearXML\obj\Release\CrearXML.vbprojAssemblyReference.cache
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\CrearXML\obj\Release\CrearXML.Resources.resources
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\CrearXML\obj\Release\CrearXML.vbproj.GenerateResource.cache
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\CrearXML\obj\Release\CrearXML.vbproj.CoreCompileInputs.cache
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\CrearXML\obj\Release\CrearXML.vbproj.CopyComplete
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\CrearXML\obj\Release\CrearXML.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\CrearXML\obj\Release\CrearXML.xml
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\CrearXML\obj\Release\CrearXML.pdb
+C:\Users\desarrollo\source\repos\SISTEMA FACTURACION SCIMIC\CrearXML\bin\Release\CrearXML.dll
+C:\Users\desarrollo\source\repos\SISTEMA FACTURACION SCIMIC\CrearXML\bin\Release\CrearXML.pdb
+C:\Users\desarrollo\source\repos\SISTEMA FACTURACION SCIMIC\CrearXML\bin\Release\CrearXML.xml
+C:\Users\desarrollo\source\repos\SISTEMA FACTURACION SCIMIC\CrearXML\bin\Release\businessEntities.dll
+C:\Users\desarrollo\source\repos\SISTEMA FACTURACION SCIMIC\CrearXML\bin\Release\businessEntities.pdb
+C:\Users\desarrollo\source\repos\SISTEMA FACTURACION SCIMIC\CrearXML\obj\Release\CrearXML.vbprojAssemblyReference.cache
+C:\Users\desarrollo\source\repos\SISTEMA FACTURACION SCIMIC\CrearXML\obj\Release\CrearXML.Resources.resources
+C:\Users\desarrollo\source\repos\SISTEMA FACTURACION SCIMIC\CrearXML\obj\Release\CrearXML.vbproj.GenerateResource.cache
+C:\Users\desarrollo\source\repos\SISTEMA FACTURACION SCIMIC\CrearXML\obj\Release\CrearXML.vbproj.CoreCompileInputs.cache
+C:\Users\desarrollo\source\repos\SISTEMA FACTURACION SCIMIC\CrearXML\obj\Release\CrearXML.vbproj.CopyComplete
+C:\Users\desarrollo\source\repos\SISTEMA FACTURACION SCIMIC\CrearXML\obj\Release\CrearXML.dll
+C:\Users\desarrollo\source\repos\SISTEMA FACTURACION SCIMIC\CrearXML\obj\Release\CrearXML.xml
+C:\Users\desarrollo\source\repos\SISTEMA FACTURACION SCIMIC\CrearXML\obj\Release\CrearXML.pdb
+C:\Users\desarrollo\source\repos\PRUEBA CONEXIONNN\CrearXML\bin\Release\CrearXML.dll
+C:\Users\desarrollo\source\repos\PRUEBA CONEXIONNN\CrearXML\bin\Release\CrearXML.pdb
+C:\Users\desarrollo\source\repos\PRUEBA CONEXIONNN\CrearXML\bin\Release\CrearXML.xml
+C:\Users\desarrollo\source\repos\PRUEBA CONEXIONNN\CrearXML\bin\Release\businessEntities.dll
+C:\Users\desarrollo\source\repos\PRUEBA CONEXIONNN\CrearXML\bin\Release\businessEntities.pdb
+C:\Users\desarrollo\source\repos\PRUEBA CONEXIONNN\CrearXML\obj\Release\CrearXML.vbprojAssemblyReference.cache
+C:\Users\desarrollo\source\repos\PRUEBA CONEXIONNN\CrearXML\obj\Release\CrearXML.Resources.resources
+C:\Users\desarrollo\source\repos\PRUEBA CONEXIONNN\CrearXML\obj\Release\CrearXML.vbproj.GenerateResource.cache
+C:\Users\desarrollo\source\repos\PRUEBA CONEXIONNN\CrearXML\obj\Release\CrearXML.vbproj.CoreCompileInputs.cache
+C:\Users\desarrollo\source\repos\PRUEBA CONEXIONNN\CrearXML\obj\Release\CrearXML.vbproj.CopyComplete
+C:\Users\desarrollo\source\repos\PRUEBA CONEXIONNN\CrearXML\obj\Release\CrearXML.dll
+C:\Users\desarrollo\source\repos\PRUEBA CONEXIONNN\CrearXML\obj\Release\CrearXML.xml
+C:\Users\desarrollo\source\repos\PRUEBA CONEXIONNN\CrearXML\obj\Release\CrearXML.pdb
+D:\SISTEMA DE FACTURACION _________________LIMPIA\CrearXML\bin\Release\CrearXML.dll
+D:\SISTEMA DE FACTURACION _________________LIMPIA\CrearXML\bin\Release\CrearXML.pdb
+D:\SISTEMA DE FACTURACION _________________LIMPIA\CrearXML\bin\Release\CrearXML.xml
+D:\SISTEMA DE FACTURACION _________________LIMPIA\CrearXML\bin\Release\businessEntities.dll
+D:\SISTEMA DE FACTURACION _________________LIMPIA\CrearXML\bin\Release\businessEntities.pdb
+D:\SISTEMA DE FACTURACION _________________LIMPIA\CrearXML\obj\Release\CrearXML.vbprojAssemblyReference.cache
+D:\SISTEMA DE FACTURACION _________________LIMPIA\CrearXML\obj\Release\CrearXML.Resources.resources
+D:\SISTEMA DE FACTURACION _________________LIMPIA\CrearXML\obj\Release\CrearXML.vbproj.GenerateResource.cache
+D:\SISTEMA DE FACTURACION _________________LIMPIA\CrearXML\obj\Release\CrearXML.vbproj.CoreCompileInputs.cache
+D:\SISTEMA DE FACTURACION _________________LIMPIA\CrearXML\obj\Release\CrearXML.vbproj.CopyComplete
+D:\SISTEMA DE FACTURACION _________________LIMPIA\CrearXML\obj\Release\CrearXML.dll
+D:\SISTEMA DE FACTURACION _________________LIMPIA\CrearXML\obj\Release\CrearXML.xml
+D:\SISTEMA DE FACTURACION _________________LIMPIA\CrearXML\obj\Release\CrearXML.pdb

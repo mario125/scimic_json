@@ -1,0 +1,23 @@
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\businessEntities\bin\Release\businessEntities.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\businessEntities\bin\Release\businessEntities.pdb
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\businessEntities\bin\Release\Newtonsoft.Json.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\businessEntities\obj\Release\BusinessEntities.csprojAssemblyReference.cache
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\businessEntities\obj\Release\BusinessEntities.csproj.CoreCompileInputs.cache
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\BusinessEntities\obj\Release\BusinessEntities.csproj.CopyComplete
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\businessEntities\obj\Release\businessEntities.dll
+C:\Users\desarrollo\Desktop\factura\FacElectronicaVBNet\ULTIMA INGE ENVIADO\con  timer\businessEntities\obj\Release\businessEntities.pdb
+C:\Users\desarrollo\source\repos\SISTEMA FACTURACION SCIMIC\businessEntities\bin\Release\businessEntities.dll
+C:\Users\desarrollo\source\repos\SISTEMA FACTURACION SCIMIC\businessEntities\bin\Release\businessEntities.pdb
+C:\Users\desarrollo\source\repos\SISTEMA FACTURACION SCIMIC\businessEntities\bin\Release\Newtonsoft.Json.dll
+C:\Users\desarrollo\source\repos\SISTEMA FACTURACION SCIMIC\businessEntities\obj\Release\businessEntities.csproj.CoreCompileInputs.cache
+C:\Users\desarrollo\source\repos\SISTEMA FACTURACION SCIMIC\businessEntities\obj\Release\businessEntities.csproj.CopyComplete
+C:\Users\desarrollo\source\repos\SISTEMA FACTURACION SCIMIC\businessEntities\obj\Release\businessEntities.dll
+C:\Users\desarrollo\source\repos\SISTEMA FACTURACION SCIMIC\businessEntities\obj\Release\businessEntities.pdb
+D:\SISTEMA DE FACTURACION _________________LIMPIA\businessEntities\bin\Release\businessEntities.dll
+D:\SISTEMA DE FACTURACION _________________LIMPIA\businessEntities\bin\Release\businessEntities.pdb
+D:\SISTEMA DE FACTURACION _________________LIMPIA\businessEntities\bin\Release\Newtonsoft.Json.dll
+D:\SISTEMA DE FACTURACION _________________LIMPIA\businessEntities\obj\Release\businessEntities.csprojAssemblyReference.cache
+D:\SISTEMA DE FACTURACION _________________LIMPIA\businessEntities\obj\Release\businessEntities.csproj.CoreCompileInputs.cache
+D:\SISTEMA DE FACTURACION _________________LIMPIA\businessEntities\obj\Release\businessEntities.csproj.CopyComplete
+D:\SISTEMA DE FACTURACION _________________LIMPIA\businessEntities\obj\Release\businessEntities.dll
+D:\SISTEMA DE FACTURACION _________________LIMPIA\businessEntities\obj\Release\businessEntities.pdb

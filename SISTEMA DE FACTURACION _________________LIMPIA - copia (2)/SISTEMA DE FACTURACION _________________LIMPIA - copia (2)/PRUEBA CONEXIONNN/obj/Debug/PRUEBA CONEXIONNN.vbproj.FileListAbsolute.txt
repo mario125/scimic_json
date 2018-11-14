@@ -1,0 +1,119 @@
+C:\Users\desarrollo\source\repos\PRUEBA CONEXIONNN\PRUEBA CONEXIONNN\bin\Debug\PRUEBA CONEXIONNN.exe.config
+C:\Users\desarrollo\source\repos\PRUEBA CONEXIONNN\PRUEBA CONEXIONNN\bin\Debug\PRUEBA CONEXIONNN.exe
+C:\Users\desarrollo\source\repos\PRUEBA CONEXIONNN\PRUEBA CONEXIONNN\bin\Debug\PRUEBA CONEXIONNN.pdb
+C:\Users\desarrollo\source\repos\PRUEBA CONEXIONNN\PRUEBA CONEXIONNN\bin\Debug\PRUEBA CONEXIONNN.xml
+C:\Users\desarrollo\source\repos\PRUEBA CONEXIONNN\PRUEBA CONEXIONNN\bin\Debug\businessEntities.dll
+C:\Users\desarrollo\source\repos\PRUEBA CONEXIONNN\PRUEBA CONEXIONNN\bin\Debug\CPEEnvio.dll
+C:\Users\desarrollo\source\repos\PRUEBA CONEXIONNN\PRUEBA CONEXIONNN\bin\Debug\CrearXML.dll
+C:\Users\desarrollo\source\repos\PRUEBA CONEXIONNN\PRUEBA CONEXIONNN\bin\Debug\scimicvb.dll
+C:\Users\desarrollo\source\repos\PRUEBA CONEXIONNN\PRUEBA CONEXIONNN\bin\Debug\Signature.dll
+C:\Users\desarrollo\source\repos\PRUEBA CONEXIONNN\PRUEBA CONEXIONNN\bin\Debug\SharpZipLib.dll
+C:\Users\desarrollo\source\repos\PRUEBA CONEXIONNN\PRUEBA CONEXIONNN\bin\Debug\businessEntities.pdb
+C:\Users\desarrollo\source\repos\PRUEBA CONEXIONNN\PRUEBA CONEXIONNN\bin\Debug\CPEEnvio.pdb
+C:\Users\desarrollo\source\repos\PRUEBA CONEXIONNN\PRUEBA CONEXIONNN\bin\Debug\CPEEnvio.dll.config
+C:\Users\desarrollo\source\repos\PRUEBA CONEXIONNN\PRUEBA CONEXIONNN\bin\Debug\CrearXML.pdb
+C:\Users\desarrollo\source\repos\PRUEBA CONEXIONNN\PRUEBA CONEXIONNN\bin\Debug\Signature.pdb
+C:\Users\desarrollo\source\repos\PRUEBA CONEXIONNN\PRUEBA CONEXIONNN\obj\Debug\PRUEBA_CONEXIONNN.Form1.resources
+C:\Users\desarrollo\source\repos\PRUEBA CONEXIONNN\PRUEBA CONEXIONNN\obj\Debug\PRUEBA_CONEXIONNN.Resources.resources
+C:\Users\desarrollo\source\repos\PRUEBA CONEXIONNN\PRUEBA CONEXIONNN\obj\Debug\PRUEBA CONEXIONNN.vbproj.GenerateResource.cache
+C:\Users\desarrollo\source\repos\PRUEBA CONEXIONNN\PRUEBA CONEXIONNN\obj\Debug\PRUEBA CONEXIONNN.vbproj.CoreCompileInputs.cache
+C:\Users\desarrollo\source\repos\PRUEBA CONEXIONNN\PRUEBA CONEXIONNN\obj\Debug\PRUEBA CONEXIONNN.vbproj.CopyComplete
+C:\Users\desarrollo\source\repos\PRUEBA CONEXIONNN\PRUEBA CONEXIONNN\obj\Debug\PRUEBA CONEXIONNN.exe
+C:\Users\desarrollo\source\repos\PRUEBA CONEXIONNN\PRUEBA CONEXIONNN\obj\Debug\PRUEBA CONEXIONNN.xml
+C:\Users\desarrollo\source\repos\PRUEBA CONEXIONNN\PRUEBA CONEXIONNN\obj\Debug\PRUEBA CONEXIONNN.pdb
+C:\Users\desarrollo\source\repos\PRUEBA CONEXIONNN\PRUEBA CONEXIONNN\obj\Debug\PRUEBA CONEXIONNN.vbprojAssemblyReference.cache
+C:\Users\desarrollo\source\repos\PRUEBA CONEXIONNN\PRUEBA CONEXIONNN\bin\Debug\CrearXML.xml
+D:\SISTEMA DE FACTURACION _________________LIMPIA\PRUEBA CONEXIONNN\bin\Debug\PRUEBA CONEXIONNN.exe.config
+D:\SISTEMA DE FACTURACION _________________LIMPIA\PRUEBA CONEXIONNN\bin\Debug\PRUEBA CONEXIONNN.exe
+D:\SISTEMA DE FACTURACION _________________LIMPIA\PRUEBA CONEXIONNN\bin\Debug\PRUEBA CONEXIONNN.pdb
+D:\SISTEMA DE FACTURACION _________________LIMPIA\PRUEBA CONEXIONNN\bin\Debug\PRUEBA CONEXIONNN.xml
+D:\SISTEMA DE FACTURACION _________________LIMPIA\PRUEBA CONEXIONNN\bin\Debug\businessEntities.dll
+D:\SISTEMA DE FACTURACION _________________LIMPIA\PRUEBA CONEXIONNN\bin\Debug\CPEEnvio.dll
+D:\SISTEMA DE FACTURACION _________________LIMPIA\PRUEBA CONEXIONNN\bin\Debug\CrearXML.dll
+D:\SISTEMA DE FACTURACION _________________LIMPIA\PRUEBA CONEXIONNN\bin\Debug\Signature.dll
+D:\SISTEMA DE FACTURACION _________________LIMPIA\PRUEBA CONEXIONNN\bin\Debug\SharpZipLib.dll
+D:\SISTEMA DE FACTURACION _________________LIMPIA\PRUEBA CONEXIONNN\bin\Debug\businessEntities.pdb
+D:\SISTEMA DE FACTURACION _________________LIMPIA\PRUEBA CONEXIONNN\bin\Debug\CPEEnvio.pdb
+D:\SISTEMA DE FACTURACION _________________LIMPIA\PRUEBA CONEXIONNN\bin\Debug\CPEEnvio.xml
+D:\SISTEMA DE FACTURACION _________________LIMPIA\PRUEBA CONEXIONNN\bin\Debug\CPEEnvio.dll.config
+D:\SISTEMA DE FACTURACION _________________LIMPIA\PRUEBA CONEXIONNN\bin\Debug\CrearXML.pdb
+D:\SISTEMA DE FACTURACION _________________LIMPIA\PRUEBA CONEXIONNN\bin\Debug\CrearXML.xml
+D:\SISTEMA DE FACTURACION _________________LIMPIA\PRUEBA CONEXIONNN\bin\Debug\Signature.pdb
+D:\SISTEMA DE FACTURACION _________________LIMPIA\PRUEBA CONEXIONNN\obj\Debug\PRUEBA CONEXIONNN.vbprojAssemblyReference.cache
+D:\SISTEMA DE FACTURACION _________________LIMPIA\PRUEBA CONEXIONNN\obj\Debug\PRUEBA_CONEXIONNN.ANULAR.resources
+D:\SISTEMA DE FACTURACION _________________LIMPIA\PRUEBA CONEXIONNN\obj\Debug\PRUEBA_CONEXIONNN.Form1.resources
+D:\SISTEMA DE FACTURACION _________________LIMPIA\PRUEBA CONEXIONNN\obj\Debug\PRUEBA_CONEXIONNN.Resources.resources
+D:\SISTEMA DE FACTURACION _________________LIMPIA\PRUEBA CONEXIONNN\obj\Debug\PRUEBA CONEXIONNN.vbproj.GenerateResource.cache
+D:\SISTEMA DE FACTURACION _________________LIMPIA\PRUEBA CONEXIONNN\obj\Debug\PRUEBA CONEXIONNN.vbproj.CoreCompileInputs.cache
+D:\SISTEMA DE FACTURACION _________________LIMPIA\PRUEBA CONEXIONNN\obj\Debug\PRUEBA CONEXIONNN.vbproj.CopyComplete
+D:\SISTEMA DE FACTURACION _________________LIMPIA\PRUEBA CONEXIONNN\obj\Debug\PRUEBA CONEXIONNN.exe
+D:\SISTEMA DE FACTURACION _________________LIMPIA\PRUEBA CONEXIONNN\obj\Debug\PRUEBA CONEXIONNN.xml
+D:\SISTEMA DE FACTURACION _________________LIMPIA\PRUEBA CONEXIONNN\obj\Debug\PRUEBA CONEXIONNN.pdb
+D:\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\bin\Debug\PRUEBA CONEXIONNN.exe.config
+D:\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\bin\Debug\PRUEBA CONEXIONNN.exe
+D:\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\bin\Debug\PRUEBA CONEXIONNN.pdb
+D:\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\bin\Debug\PRUEBA CONEXIONNN.xml
+D:\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\bin\Debug\businessEntities.dll
+D:\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\bin\Debug\ConsoleApp1.exe
+D:\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\bin\Debug\CPEEnvio.dll
+D:\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\bin\Debug\CrearXML.dll
+D:\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\bin\Debug\DevExpress.Data.v18.1.dll
+D:\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\bin\Debug\Signature.dll
+D:\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\bin\Debug\SharpZipLib.dll
+D:\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\bin\Debug\Newtonsoft.Json.dll
+D:\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\bin\Debug\businessEntities.pdb
+D:\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\bin\Debug\CPEEnvio.pdb
+D:\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\bin\Debug\CPEEnvio.xml
+D:\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\bin\Debug\CPEEnvio.dll.config
+D:\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\bin\Debug\CrearXML.pdb
+D:\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\bin\Debug\CrearXML.xml
+D:\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\bin\Debug\ConsoleApp1.pdb
+D:\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\bin\Debug\ConsoleApp1.exe.config
+D:\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\bin\Debug\Signature.pdb
+D:\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\bin\Debug\DevExpress.Data.v18.1.xml
+D:\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\bin\Debug\Newtonsoft.Json.xml
+D:\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+D:\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+D:\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+D:\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+D:\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\obj\Debug\PRUEBA CONEXIONNN.vbprojAssemblyReference.cache
+D:\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\obj\Debug\PRUEBA_CONEXIONNN.ANULAR.resources
+D:\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\obj\Debug\PRUEBA_CONEXIONNN.Form1.resources
+D:\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\obj\Debug\PRUEBA_CONEXIONNN.Resources.resources
+D:\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\obj\Debug\PRUEBA CONEXIONNN.vbproj.GenerateResource.cache
+D:\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\obj\Debug\PRUEBA CONEXIONNN.vbproj.CoreCompileInputs.cache
+D:\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\obj\Debug\PRUEBA CONEXIONNN.vbproj.CopyComplete
+D:\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\obj\Debug\PRUEBA CONEXIONNN.exe
+D:\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\obj\Debug\PRUEBA CONEXIONNN.xml
+D:\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\obj\Debug\PRUEBA CONEXIONNN.pdb
+C:\Users\Mario\Downloads\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\bin\Debug\PRUEBA CONEXIONNN.exe.config
+C:\Users\Mario\Downloads\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\bin\Debug\PRUEBA CONEXIONNN.exe
+C:\Users\Mario\Downloads\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\bin\Debug\PRUEBA CONEXIONNN.pdb
+C:\Users\Mario\Downloads\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\bin\Debug\PRUEBA CONEXIONNN.xml
+C:\Users\Mario\Downloads\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\bin\Debug\businessEntities.dll
+C:\Users\Mario\Downloads\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\bin\Debug\ConsoleApp1.exe
+C:\Users\Mario\Downloads\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\bin\Debug\CPEEnvio.dll
+C:\Users\Mario\Downloads\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\bin\Debug\CrearXML.dll
+C:\Users\Mario\Downloads\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\bin\Debug\Signature.dll
+C:\Users\Mario\Downloads\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\bin\Debug\SharpZipLib.dll
+C:\Users\Mario\Downloads\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mario\Downloads\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\bin\Debug\businessEntities.pdb
+C:\Users\Mario\Downloads\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\bin\Debug\CPEEnvio.pdb
+C:\Users\Mario\Downloads\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\bin\Debug\CPEEnvio.xml
+C:\Users\Mario\Downloads\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\bin\Debug\CPEEnvio.dll.config
+C:\Users\Mario\Downloads\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\bin\Debug\CrearXML.pdb
+C:\Users\Mario\Downloads\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\bin\Debug\CrearXML.xml
+C:\Users\Mario\Downloads\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\bin\Debug\ConsoleApp1.pdb
+C:\Users\Mario\Downloads\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Mario\Downloads\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\bin\Debug\Signature.pdb
+C:\Users\Mario\Downloads\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mario\Downloads\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\obj\Debug\PRUEBA CONEXIONNN.vbprojAssemblyReference.cache
+C:\Users\Mario\Downloads\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\obj\Debug\PRUEBA_CONEXIONNN.ANULAR.resources
+C:\Users\Mario\Downloads\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\obj\Debug\PRUEBA_CONEXIONNN.Form1.resources
+C:\Users\Mario\Downloads\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\obj\Debug\PRUEBA_CONEXIONNN.Resources.resources
+C:\Users\Mario\Downloads\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\obj\Debug\PRUEBA CONEXIONNN.vbproj.GenerateResource.cache
+C:\Users\Mario\Downloads\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\obj\Debug\PRUEBA CONEXIONNN.vbproj.CoreCompileInputs.cache
+C:\Users\Mario\Downloads\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\obj\Debug\PRUEBA CONEXIONNN.vbproj.CopyComplete
+C:\Users\Mario\Downloads\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\obj\Debug\PRUEBA CONEXIONNN.exe
+C:\Users\Mario\Downloads\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\obj\Debug\PRUEBA CONEXIONNN.xml
+C:\Users\Mario\Downloads\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\PRUEBA CONEXIONNN\obj\Debug\PRUEBA CONEXIONNN.pdb
