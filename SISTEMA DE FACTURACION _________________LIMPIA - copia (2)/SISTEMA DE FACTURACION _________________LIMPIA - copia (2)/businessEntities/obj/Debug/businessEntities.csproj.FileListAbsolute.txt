@@ -111,10 +111,3 @@ C:\Users\Mario\Documents\scimic_json\SISTEMA DE FACTURACION _________________LIM
 C:\Users\Mario\Documents\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\businessEntities\obj\Debug\businessEntities.csproj.CopyComplete
 C:\Users\Mario\Documents\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\businessEntities\obj\Debug\businessEntities.dll
 C:\Users\Mario\Documents\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\businessEntities\obj\Debug\businessEntities.pdb
-D:\GIT_HUB\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\businessEntities\bin\Debug\businessEntities.dll
-D:\GIT_HUB\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\businessEntities\bin\Debug\businessEntities.pdb
-D:\GIT_HUB\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\businessEntities\obj\Debug\businessEntities.csprojAssemblyReference.cache
-D:\GIT_HUB\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\businessEntities\obj\Debug\businessEntities.csproj.CoreCompileInputs.cache
-D:\GIT_HUB\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\businessEntities\obj\Debug\businessEntities.csproj.CopyComplete
-D:\GIT_HUB\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\businessEntities\obj\Debug\businessEntities.dll
-D:\GIT_HUB\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\businessEntities\obj\Debug\businessEntities.pdb
