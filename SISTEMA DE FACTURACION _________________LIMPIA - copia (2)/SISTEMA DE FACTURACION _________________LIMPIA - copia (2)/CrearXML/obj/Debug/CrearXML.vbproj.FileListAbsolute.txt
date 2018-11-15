@@ -242,3 +242,16 @@ C:\Users\Mario\Documents\scimic_json\SISTEMA DE FACTURACION _________________LIM
 C:\Users\Mario\Documents\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\CrearXML\obj\Debug\CrearXML.dll
 C:\Users\Mario\Documents\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\CrearXML\obj\Debug\CrearXML.xml
 C:\Users\Mario\Documents\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\CrearXML\obj\Debug\CrearXML.pdb
+D:\GIT_HUB\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\CrearXML\bin\Debug\CrearXML.dll
+D:\GIT_HUB\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\CrearXML\bin\Debug\CrearXML.pdb
+D:\GIT_HUB\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\CrearXML\bin\Debug\CrearXML.xml
+D:\GIT_HUB\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\CrearXML\bin\Debug\businessEntities.dll
+D:\GIT_HUB\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\CrearXML\bin\Debug\businessEntities.pdb
+D:\GIT_HUB\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\CrearXML\obj\Debug\CrearXML.vbprojAssemblyReference.cache
+D:\GIT_HUB\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\CrearXML\obj\Debug\CrearXML.Resources.resources
+D:\GIT_HUB\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\CrearXML\obj\Debug\CrearXML.vbproj.GenerateResource.cache
+D:\GIT_HUB\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\CrearXML\obj\Debug\CrearXML.vbproj.CoreCompileInputs.cache
+D:\GIT_HUB\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\CrearXML\obj\Debug\CrearXML.vbproj.CopyComplete
+D:\GIT_HUB\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\CrearXML\obj\Debug\CrearXML.dll
+D:\GIT_HUB\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\CrearXML\obj\Debug\CrearXML.xml
+D:\GIT_HUB\scimic_json\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\SISTEMA DE FACTURACION _________________LIMPIA - copia (2)\CrearXML\obj\Debug\CrearXML.pdb
