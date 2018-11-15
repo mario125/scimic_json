@@ -32,10 +32,13 @@ Partial Class Form1
         Me.LinqServerModeSource1 = New DevExpress.Data.Linq.LinqServerModeSource()
         Me.Button3 = New System.Windows.Forms.Button()
         Me.Button4 = New System.Windows.Forms.Button()
+<<<<<<< HEAD
         Me.Button5 = New System.Windows.Forms.Button()
         Me.Button6 = New System.Windows.Forms.Button()
         Me.Panel1 = New System.Windows.Forms.Panel()
         Me.Panel2 = New System.Windows.Forms.Panel()
+=======
+>>>>>>> mario1
         CType(Me.LinqServerModeSource1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
@@ -71,7 +74,11 @@ Partial Class Form1
         '
         'Button3
         '
+<<<<<<< HEAD
         Me.Button3.Location = New System.Drawing.Point(124, 117)
+=======
+        Me.Button3.Location = New System.Drawing.Point(176, 125)
+>>>>>>> mario1
         Me.Button3.Name = "Button3"
         Me.Button3.Size = New System.Drawing.Size(75, 23)
         Me.Button3.TabIndex = 2
@@ -80,13 +87,18 @@ Partial Class Form1
         '
         'Button4
         '
+<<<<<<< HEAD
         Me.Button4.Location = New System.Drawing.Point(333, 101)
+=======
+        Me.Button4.Location = New System.Drawing.Point(290, 125)
+>>>>>>> mario1
         Me.Button4.Name = "Button4"
         Me.Button4.Size = New System.Drawing.Size(75, 23)
         Me.Button4.TabIndex = 3
         Me.Button4.Text = "Button4"
         Me.Button4.UseVisualStyleBackColor = True
         '
+<<<<<<< HEAD
         'Button5
         '
         Me.Button5.Location = New System.Drawing.Point(244, 134)
@@ -119,15 +131,21 @@ Partial Class Form1
         Me.Panel2.Size = New System.Drawing.Size(111, 361)
         Me.Panel2.TabIndex = 7
         '
+=======
+>>>>>>> mario1
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
+<<<<<<< HEAD
         Me.ClientSize = New System.Drawing.Size(1039, 458)
         Me.Controls.Add(Me.Panel2)
         Me.Controls.Add(Me.Panel1)
         Me.Controls.Add(Me.Button6)
         Me.Controls.Add(Me.Button5)
+=======
+        Me.ClientSize = New System.Drawing.Size(473, 185)
+>>>>>>> mario1
         Me.Controls.Add(Me.Button4)
         Me.Controls.Add(Me.Button3)
         Me.Controls.Add(Me.Button2)
@@ -147,8 +165,11 @@ Partial Class Form1
     Friend WithEvents LinqServerModeSource1 As DevExpress.Data.Linq.LinqServerModeSource
     Friend WithEvents Button3 As Button
     Friend WithEvents Button4 As Button
+<<<<<<< HEAD
     Friend WithEvents Button5 As Button
     Friend WithEvents Button6 As Button
     Friend WithEvents Panel1 As Panel
     Friend WithEvents Panel2 As Panel
+=======
+>>>>>>> mario1
 End Class
