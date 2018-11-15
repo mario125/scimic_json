@@ -32,13 +32,13 @@ Partial Class Form1
         Me.LinqServerModeSource1 = New DevExpress.Data.Linq.LinqServerModeSource()
         Me.Button3 = New System.Windows.Forms.Button()
         Me.Button4 = New System.Windows.Forms.Button()
-<<<<<<< HEAD
         Me.Button5 = New System.Windows.Forms.Button()
         Me.Button6 = New System.Windows.Forms.Button()
         Me.Panel1 = New System.Windows.Forms.Panel()
         Me.Panel2 = New System.Windows.Forms.Panel()
-=======
->>>>>>> mario1
+        Me.Button7 = New System.Windows.Forms.Button()
+        Me.Button8 = New System.Windows.Forms.Button()
+        Me.Button9 = New System.Windows.Forms.Button()
         CType(Me.LinqServerModeSource1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
@@ -74,11 +74,7 @@ Partial Class Form1
         '
         'Button3
         '
-<<<<<<< HEAD
         Me.Button3.Location = New System.Drawing.Point(124, 117)
-=======
-        Me.Button3.Location = New System.Drawing.Point(176, 125)
->>>>>>> mario1
         Me.Button3.Name = "Button3"
         Me.Button3.Size = New System.Drawing.Size(75, 23)
         Me.Button3.TabIndex = 2
@@ -87,18 +83,13 @@ Partial Class Form1
         '
         'Button4
         '
-<<<<<<< HEAD
         Me.Button4.Location = New System.Drawing.Point(333, 101)
-=======
-        Me.Button4.Location = New System.Drawing.Point(290, 125)
->>>>>>> mario1
         Me.Button4.Name = "Button4"
         Me.Button4.Size = New System.Drawing.Size(75, 23)
         Me.Button4.TabIndex = 3
         Me.Button4.Text = "Button4"
         Me.Button4.UseVisualStyleBackColor = True
         '
-<<<<<<< HEAD
         'Button5
         '
         Me.Button5.Location = New System.Drawing.Point(244, 134)
@@ -131,21 +122,45 @@ Partial Class Form1
         Me.Panel2.Size = New System.Drawing.Size(111, 361)
         Me.Panel2.TabIndex = 7
         '
-=======
->>>>>>> mario1
+        'Button7
+        '
+        Me.Button7.Location = New System.Drawing.Point(53, 264)
+        Me.Button7.Name = "Button7"
+        Me.Button7.Size = New System.Drawing.Size(75, 23)
+        Me.Button7.TabIndex = 8
+        Me.Button7.Text = "Button7"
+        Me.Button7.UseVisualStyleBackColor = True
+        '
+        'Button8
+        '
+        Me.Button8.Location = New System.Drawing.Point(174, 264)
+        Me.Button8.Name = "Button8"
+        Me.Button8.Size = New System.Drawing.Size(75, 23)
+        Me.Button8.TabIndex = 9
+        Me.Button8.Text = "Button8"
+        Me.Button8.UseVisualStyleBackColor = True
+        '
+        'Button9
+        '
+        Me.Button9.Location = New System.Drawing.Point(323, 264)
+        Me.Button9.Name = "Button9"
+        Me.Button9.Size = New System.Drawing.Size(75, 23)
+        Me.Button9.TabIndex = 10
+        Me.Button9.Text = "Button9"
+        Me.Button9.UseVisualStyleBackColor = True
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-<<<<<<< HEAD
         Me.ClientSize = New System.Drawing.Size(1039, 458)
+        Me.Controls.Add(Me.Button9)
+        Me.Controls.Add(Me.Button8)
+        Me.Controls.Add(Me.Button7)
         Me.Controls.Add(Me.Panel2)
         Me.Controls.Add(Me.Panel1)
         Me.Controls.Add(Me.Button6)
         Me.Controls.Add(Me.Button5)
-=======
-        Me.ClientSize = New System.Drawing.Size(473, 185)
->>>>>>> mario1
         Me.Controls.Add(Me.Button4)
         Me.Controls.Add(Me.Button3)
         Me.Controls.Add(Me.Button2)
@@ -170,6 +185,9 @@ Partial Class Form1
     Friend WithEvents Button6 As Button
     Friend WithEvents Panel1 As Panel
     Friend WithEvents Panel2 As Panel
+    Friend WithEvents Button7 As Button
+    Friend WithEvents Button8 As Button
+    Friend WithEvents Button9 As Button
 =======
 >>>>>>> mario1
 End Class
